@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.pixelsperinn.com/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="zh-Hant-HK" href="https://www.pixelsperinn.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixelsperinn.com/"/>
+    <image:image>
+      <image:loc>https://www.pixelsperinn.com/assets/img/ppi-studio-logo.jpg</image:loc>
+      <image:title>PPI Studio｜Pixels Per Innovation Limited</image:title>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://www.pixelsperinn.com/assets/img/showreel-poster.jpg</video:thumbnail_loc>
+      <video:title>PPI Studio 廣告影視製作 Showreel</video:title>
+      <video:description>PPI Studio 廣告及影視製作作品精選：產品棚拍、美妝廣告、KOL 合作片、商業攝影及活動拍攝。</video:description>
+      <video:content_loc>https://www.pixelsperinn.com/assets/video/ppi-studio-showreel.mp4</video:content_loc>
+      <video:duration>30</video:duration>
+      <video:publication_date>2025-08-20</video:publication_date>
+    </video:video>
+  </url>
+</urlset>

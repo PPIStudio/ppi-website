@@ -1,0 +1,9 @@
+{
+  "name": "ppi-studio-web",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PPI Studio — 廣告影視製作 × AI 商業自動化（靜態網站）",
+  "scripts": {
+    "dev": "node scripts/dev-server.js"
+  }
+}
