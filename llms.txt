@@ -32,3 +32,4 @@ AI 客服（24 小時廣東話回覆）、自動跟單、工作流程自動化�
 ## 主要頁面
 
 - [主頁](https://www.pixelsperinn.com/)：服務、作品、價錢、常見問題、聯絡方式
+- [私隱政策](https://www.pixelsperinn.com/privacy)：個人資料收集、用途、存放及用戶權利（中英文對照）

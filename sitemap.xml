@@ -23,4 +23,12 @@
       <video:publication_date>2025-08-20</video:publication_date>
     </video:video>
   </url>
+  <url>
+    <loc>https://www.pixelsperinn.com/privacy</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="zh-Hant-HK" href="https://www.pixelsperinn.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.pixelsperinn.com/privacy"/>
+  </url>
 </urlset>
